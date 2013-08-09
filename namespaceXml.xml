@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Autodiscover xmlns="http://schemas.microsoft.com/exchange/autodiscover/responseschema/2006">
+        <Response>
+        <Account>
+        <Protocol>
+                <Type>EXPR</Type>
+                <EwsUrl>https://server.my.dom/EWS/Exchange.asmx</EwsUrl>
+        </Protocol>
+        </Account>
+      </Response>
+</Autodiscover>
